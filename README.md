@@ -37,13 +37,8 @@ WIP
 WIP  
 
 - 🔮 Obsidian - An Eternal Notebook  
-<<<<<<< HEAD
 This very, very fancy .md editor is something I use daily, for notes, documents, organization, etc.  
 Everything is .md files with few exceptions, so it's future-proof, lightweight, and stylish.  
-=======
-This very, very fancy .md editor is something I use daily, for notes, documents, organization, etc.
-Everything is .md files with few exceptions, so it's future-proof, lightweight, and stylish.
->>>>>>> ae285bd12d6da4aa3a1220f438817db170e78ac3
 
 - 🪄 Rofi - Fancy menus  
 I use Rofi as an application launcher and for making menus  
