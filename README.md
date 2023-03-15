@@ -36,7 +36,7 @@ WIP
 - 🔔 Dunst - Notification daemon
 WIP
 
-- 🔮 Obsidian - An Eternal Notebook
+- 🔮 Obsidian - An Eternal Notebook  
 This very, very fancy .md editor is something I use daily, for notes, documents, organization, etc.
 Everything is .md files with few exceptions, so it's future-proof, lightweight, and stylish.
 
