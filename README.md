@@ -21,7 +21,6 @@ WIP
 
 ## Tools
 - 🐟 Fish - Friendly and customizable Shell  
-WIP
 
 - 🐱 Kitty - Fast, feature-rich, GPU based terminal emultor  
 WIP
