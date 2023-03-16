@@ -44,7 +44,7 @@ I use Rofi as an application launcher and for making menus
 WIP  
 
 - ♞ NNN - Terminal File manager  
-Incredibly fast, fulled with features  
+Incredibly fast, filled with features  
 
 - 📃 Zathura - KISS document viewer  
 WIP  
