@@ -4,7 +4,7 @@
 # and this video https://www.youtube.com/embed/IeHq-xqwg3E
 #
 # from line 10, get a random line and print it
-tail --line +10 ./sonic-line.sh | shuf -n 1
+tail --line +10 $0 | shuf -n 1
 
 # Line below me is line 10 - this is relevant for the script
 # All systems, full power!
