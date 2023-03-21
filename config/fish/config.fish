@@ -10,6 +10,9 @@ if status is-interactive
 	abbr -a l 'ls --hyperlink=auto'
 	abbr -a :q 'exit' # You'll be surprised how often I did this before making it an abbreviation/alias
 	abbr -a :wq 'exit'
+	abbr -a k 'kitty +kitten'
+	abbr -a u 'kitty +kitten unicode_input'
+	abbr -a s 'sudo'
 
 	# Restore sudo !!
 	function pls!!
