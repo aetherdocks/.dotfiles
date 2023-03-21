@@ -7,8 +7,9 @@ echo 'this script will install my dotfiles'
 
 # config
 # mkdir just in case it does not exist
-mkdir ~/.config #todo: make this not yield an error
+mkdir ~/.config ~/.icons #todo: make this not yield an error
 ln -sr ./config/* ~/.config
+ln -sr ./icons/* ~/.icons
 
 ## make fish default shell
-chsh -s fish #todo: test this works
+chsh -s /bin/fish #todo: test this works
