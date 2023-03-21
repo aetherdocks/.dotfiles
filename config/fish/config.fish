@@ -7,7 +7,7 @@ if status is-interactive
 	# Abbreviations
 	abbr -a p 'sudo pacman'
 	abbr -a v 'nvim'
-	abbr -a l 'ls -la'
+	abbr -a l 'ls --hyperlink=auto'
 	abbr -a :q 'exit' # You'll be surprised how often I did this before making it an abbreviation/alias
 	abbr -a :wq 'exit'
 
