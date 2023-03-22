@@ -34,6 +34,8 @@ $crust: #232634;
 
 window {
     background: $base;
+    font-size: 14px;
+    font-family: "Source Sans Pro";
 }
 
 .calendarLogo {
@@ -46,6 +48,8 @@ window {
     background: $sky;
     padding-right: 5px;
     border-radius: 0px 5px 5px 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 .eventbox {
