@@ -1,0 +1,3 @@
+[submodule "config/eww/bar/eugh"]
+	path = config/eww/bar/eugh
+	url = https://github.com/druskus20/eugh
