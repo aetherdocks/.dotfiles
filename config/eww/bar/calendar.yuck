@@ -4,10 +4,10 @@
 ; scripts
 (defpoll time :interval "1m"
 	      :initial "00:00"
-	`echo $(date +%H:%M)" "`)
+	`date +%H:%M`)
 (defpoll date :interval "1m"
 	      :initial "1970-01-01"
-	`date +%Y-%m-%d`)
+	`echo " "$(date +%Y-%m-%d)" "`)
 
 ; widgets
 (defwidget calendarLogo [Time]
@@ -50,8 +50,8 @@
       (calendarLogo :Time reveal 
         "󱄴"
         "󱄵")
-      "${time}"
-      "${date}")))
+      "${date}"
+      "${time}")))
 
 (defwidget test-box [?color]
   (box :class "${color} test-box"
