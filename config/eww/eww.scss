@@ -31,7 +31,25 @@ $crust: #232634;
 }
 
 // Global
-:is(bar-0, bar-1) { // x, y {} selector doesnt work? is this a scss thing?
-	background-color: $base;
-	color: $text;
+
+window {
+    background: $base;
+}
+
+.calendarLogo {
+    background: $mauve;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.calendarOnHover {
+    background: $sky;
+    padding-right: 5px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.eventbox {
+	background: $red;
+	color: $mantle;
+    border-radius: 0px 5px 5px 0px;
 }
